@@ -9,4 +9,4 @@ The script processes coordinates from coords, and puts results in results.txt.  
 
 
 
-reformatResults is obselete and unused; just run getDriveTimes.py to do everything.  You may need to change the path specification of coords and results.txt.
+reformatResults is obselete and unused; just run getDriveTimes.py to do everything.
