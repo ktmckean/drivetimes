@@ -5,3 +5,8 @@ Use:  Coordinates go in coords in Lat,Long format.  (Note that OSRM uses Long,La
 The top line is for sources, and the other lines are all destinations.  In this way, the coordinates are laid out like labels in a table.
 
 The script processes coordinates from coords, and puts results in results.txt.  The results are ordered such as to fill in the table implied by the positions of sources and destinations in coords.
+
+
+
+
+reformatResults is obselete and unused; just run getDriveTimes.py to do everything.  You may need to change the path specification of coords and results.txt.
